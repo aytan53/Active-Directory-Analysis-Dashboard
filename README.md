@@ -41,4 +41,4 @@ The dashboard provides a "Lansweeper-like" overview of your infrastructure:
 This project is open-source and available under the MIT License.
 
 ---
-*Author: Kasim Aytan*
+**Author:** [Kasim Aytan](https://github.com/aytan53)
